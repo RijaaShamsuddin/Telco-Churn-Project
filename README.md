@@ -23,6 +23,8 @@ Details in [problem.md](./problem.md).
 
 2. **Day 2 – ETL & Feature Engineering**
    - Built `customers_features` table in Postgres (contract type, high monthly flag, support call stats).
+   - <img width="683" height="334" alt="image" src="https://github.com/user-attachments/assets/c9b58936-38a7-4dc0-8494-443e54dbae6e" />
+
 
 3. **Day 3 – Segmentation & SQL Analysis**
    - Identified top churn drivers and at-risk segments.
