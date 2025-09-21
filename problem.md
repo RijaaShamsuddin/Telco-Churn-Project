@@ -1,9 +1,4 @@
 
----
-
-# 📄 `problem.md`
-
-```markdown
 # Problem Statement
 
 **Business Context**  
