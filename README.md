@@ -1,4 +1,4 @@
-# Telco-Churn-Project-Project 🚀
+# Telco-Churn-Optimization-Project 🚀
 
 **Summary (30 seconds):**  
 End-to-end case study to reduce revenue-at-risk from customer churn.  
@@ -39,3 +39,13 @@ Details in [problem.md](./problem.md).
 ---
 
 ## 📂 Repository Structure
+telco-churn-optimization/
+├── README.md
+├── problem.md
+├── data_quality_log.md
+├── sql/
+├── python/
+├── data/
+├── docs/
+├── dashboard/
+└── models/
