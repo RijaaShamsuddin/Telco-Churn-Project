@@ -1,6 +1,6 @@
 # Telco-Churn-Optimization-Project 🚀
 
-**Summary (30 seconds):**  
+**Summary:**  
 End-to-end case study to reduce revenue-at-risk from customer churn.  
 I designed a workflow (ETL → SQL → Predictive model → BI Dashboard) that identified high-risk customers, simulated a retention offer, and projected **X% churn reduction and €Y revenue saved**.
 
