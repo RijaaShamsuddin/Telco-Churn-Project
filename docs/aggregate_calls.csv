@@ -1,0 +1,538 @@
+customerid,contract,total_charges,monthly_charges,tenure,tenure_bucket,churn_flag,payment_method,calls_last_90d,unresolved_calls_90d,avg_resolution_time,avg_payment,missing_method_count,last_payment_date
+9305-CDSKC,month-to-month,820.5,99.65,8,6-12,True,Electronic check,1,0,30.25,99.65,0,2022-12-24
+8627-ZYGSZ,one year,3650.35,78.9,47,24-48,False,Electronic check,3,0,37.5,78.9,0,2022-12-20
+7410-OIEDU,month-to-month,887.35,79.85,10,6-12,False,Mailed check,1,2,33.75,79.85,0,2022-12-04
+6180-YBIQI,month-to-month,100.2,24.3,5,0-6,False,Mailed check,1,0,19.0,24.3,0,2022-12-24
+0486-HECZI,month-to-month,5238.9,96.75,55,48+,True,Electronic check,2,1,41.0,96.75,0,2022-12-12
+1091-SOZGA,one year,5515.45,99.8,56,48+,False,Credit card (automatic),1,1,53.5,99.8,0,2022-12-26
+2928-HLDBA,month-to-month,112.75,20.7,6,6-12,False,Mailed check,2,0,48.33,20.7,0,2022-12-18
+6217-KDYWC,two year,1170.55,19.6,57,48+,False,Mailed check,1,1,26.5,19.6,0,2022-12-11
+1875-QIVME,month-to-month,242.8,104.4,2,0-6,True,Electronic check,1,1,26.5,104.4,0,2022-12-19
+3712-PKXZA,one year,1252.0,20.55,61,48+,False,Credit card (automatic),1,1,38.0,20.55,0,2022-12-23
+9367-WXLCH,month-to-month,662.65,84.5,8,6-12,True,Bank transfer (automatic),1,0,23.0,84.5,0,2022-12-21
+9142-KZXOP,month-to-month,2958.95,68.85,44,24-48,False,Credit card (automatic),1,0,49.0,68.85,0,2022-12-24
+7674-YTAFD,one year,2684.85,79.95,33,24-48,False,Bank transfer (automatic),1,3,46.2,79.95,0,2022-12-04
+7841-TZDMQ,month-to-month,84.5,46.0,2,0-6,True,Credit card (automatic),1,0,50.0,46.0,0,2022-12-25
+9286-BHDQG,two year,3139.8,45.25,72,48+,False,Credit card (automatic),2,0,37.33,45.25,0,2022-12-26
+6496-JDSSB,month-to-month,624.6,80.0,8,6-12,False,Bank transfer (automatic),1,1,24.6,80.0,0,2022-12-03
+9058-HRZSV,month-to-month,6126.15,94.4,65,48+,False,Electronic check,1,3,39.2,94.4,0,2022-12-11
+7605-BDWDC,two year,1520.1,49.85,31,24-48,False,Bank transfer (automatic),1,1,47.0,49.85,0,2022-12-24
+5940-AHUHD,month-to-month,70.6,70.6,1,0-6,True,Mailed check,1,1,31.67,70.6,0,2022-12-04
+8645-KWHJO,month-to-month,771.95,55.0,14,12-24,False,Electronic check,1,2,19.0,55.0,0,2022-12-10
+9577-WJVCQ,month-to-month,3687.75,54.45,68,48+,False,Mailed check,1,0,5.0,54.45,0,2022-12-04
+4847-TAJYI,month-to-month,567.8,89.35,6,6-12,False,Electronic check,1,1,19.0,89.35,0,2022-12-18
+8203-XJZRC,month-to-month,20.25,20.25,1,0-6,False,Mailed check,1,3,29.4,20.25,0,2022-12-18
+5027-YOCXN,one year,5686.4,110.05,51,48+,False,Credit card (automatic),1,1,25.33,110.05,0,2022-12-28
+2840-XANRC,month-to-month,2231.05,93.15,24,24-48,True,Electronic check,1,1,43.0,93.15,0,2022-12-28
+2088-IEBAU,two year,6148.45,88.15,68,48+,False,Electronic check,3,0,17.2,88.15,0,2022-12-19
+1343-EHPYB,month-to-month,6603.0,103.4,63,48+,True,Electronic check,2,2,25.0,103.4,0,2022-12-22
+5924-SNGKP,one year,865.0,20.25,41,24-48,False,Credit card (automatic),1,0,26.5,20.25,0,2022-12-11
+5176-LMJXE,two year,945.7,20.55,47,24-48,False,Mailed check,1,2,46.0,20.55,0,2022-12-23
+1010-DIAUQ,month-to-month,492.55,96.5,5,0-6,True,Bank transfer (automatic),2,1,40.6,96.5,0,2022-12-15
+7156-MXBJE,one year,3662.25,85.1,43,24-48,False,Credit card (automatic),1,0,35.5,85.1,0,2022-12-19
+1708-PBBOA,one year,2348.45,54.75,42,24-48,False,Electronic check,1,1,22.67,54.75,0,2022-12-14
+5522-JBWMO,month-to-month,44.0,44.0,1,0-6,False,Electronic check,1,1,29.33,44.0,0,2022-12-26
+2977-CEBSX,two year,5965.95,90.05,66,48+,False,Credit card (automatic),1,1,24.0,90.05,0,2022-12-08
+5495-GPSRW,two year,419.4,19.7,20,12-24,False,Mailed check,1,3,38.4,19.7,0,2022-12-08
+7606-BPHHN,two year,1468.75,19.8,72,48+,False,Credit card (automatic),1,2,37.5,19.8,0,2022-12-20
+1996-DBMUS,month-to-month,3545.05,70.65,48,48+,False,Bank transfer (automatic),1,1,39.67,70.65,0,2022-12-13
+4376-KFVRS,two year,8468.2,114.05,72,48+,False,Credit card (automatic),1,2,47.33,114.05,0,2022-12-06
+4104-PVRPS,month-to-month,1315.35,53.6,24,24-48,False,Mailed check,1,1,45.33,53.6,0,2022-12-24
+9399-APLBT,month-to-month,74.7,74.7,1,0-6,True,Electronic check,1,4,39.6,74.7,0,2022-12-09
+6227-HWPWX,month-to-month,994.8,69.0,15,12-24,True,Bank transfer (automatic),1,2,34.75,69.0,0,2022-12-04
+8205-OTCHB,one year,903.6,43.75,22,12-24,True,Bank transfer (automatic),1,2,37.0,43.75,0,2022-12-27
+0505-SPOOW,two year,1397.65,19.8,70,48+,False,Bank transfer (automatic),1,0,23.0,19.8,0,2022-12-27
+4513-CXYIX,two year,5676.0,80.7,71,48+,False,Credit card (automatic),1,1,36.25,80.7,0,2022-12-13
+6705-LXORM,month-to-month,302.6,70.05,5,0-6,False,Electronic check,1,1,45.0,70.05,0,2022-12-27
+5174-ITUMV,one year,6989.45,105.4,67,48+,False,Electronic check,1,1,23.0,105.4,0,2022-12-27
+8606-CIQUL,two year,8399.15,115.75,72,48+,False,Credit card (automatic),2,1,27.75,115.75,0,2022-12-02
+1403-GYAFU,two year,1360.25,20.05,70,48+,False,Credit card (automatic),1,2,46.0,20.05,0,2022-12-28
+8905-IAZPF,one year,6744.2,95.65,69,48+,False,Credit card (automatic),1,0,33.67,95.65,0,2022-12-08
+2782-LFZVW,month-to-month,601.6,58.95,11,6-12,False,Mailed check,1,0,18.0,58.95,0,2022-12-25
+6986-IJDHX,month-to-month,3266.0,86.3,39,24-48,True,Mailed check,1,0,38.0,86.3,0,2022-12-04
+5791-KAJFD,one year,3808.0,68.75,56,48+,False,Bank transfer (automatic),2,2,29.25,68.75,0,2022-12-25
+1154-HYWWO,one year,2708.2,70.6,38,24-48,False,Mailed check,1,2,21.25,70.6,0,2022-12-08
+6030-REHUX,month-to-month,3204.4,110.85,28,24-48,False,Electronic check,1,2,36.25,110.85,0,2022-12-03
+1218-VKFPE,month-to-month,233.55,19.0,12,12-24,True,Mailed check,3,1,36.5,19.0,0,2022-12-12
+2393-DIVAI,month-to-month,61.7,20.0,3,0-6,False,Mailed check,1,0,27.0,20.0,0,2022-12-26
+0742-LAFQK,two year,7422.1,99.15,72,48+,False,Electronic check,1,0,39.25,99.15,0,2022-12-24
+3419-SNJJD,month-to-month,6786.4,105.25,65,48+,True,Bank transfer (automatic),1,1,33.5,105.25,0,2022-12-24
+9396-ZSFLL,month-to-month,631.4,48.85,15,12-24,False,Mailed check,1,2,39.75,48.85,0,2022-12-07
+1009-IRMNA,month-to-month,137.6,20.0,7,6-12,True,Bank transfer (automatic),1,1,40.67,20.0,0,2022-12-14
+6797-UCJHZ,one year,6819.45,104.6,66,48+,False,Credit card (automatic),2,1,33.75,104.6,0,2022-12-07
+4695-VADHF,month-to-month,990.85,57.45,18,12-24,True,Electronic check,1,0,29.67,57.45,0,2022-12-28
+8100-PNJMH,two year,6132.7,88.85,68,48+,False,Credit card (automatic),1,0,21.0,88.85,0,2022-12-16
+9092-GDZKO,month-to-month,493.4,24.85,22,12-24,False,Credit card (automatic),1,1,28.25,24.85,0,2022-12-13
+4957-TREIR,month-to-month,195.65,64.4,3,0-6,False,Credit card (automatic),1,2,35.0,64.4,0,2022-12-16
+5313-FPXWG,one year,1266.4,24.6,51,48+,False,Bank transfer (automatic),1,0,18.0,24.6,0,2022-12-27
+5076-YVXCM,month-to-month,4149.45,83.4,51,48+,False,Bank transfer (automatic),1,0,24.0,83.4,0,2022-12-21
+2682-KEVRP,one year,417.0,20.05,22,12-24,False,Mailed check,1,0,6.0,20.05,0,2022-12-03
+8338-QIUNR,two year,4811.6,66.5,72,48+,False,Credit card (automatic),1,1,21.67,66.5,0,2022-12-04
+1456-TWCGB,month-to-month,208.45,49.25,4,0-6,False,Mailed check,1,1,47.67,49.25,0,2022-12-09
+7133-VBDCG,month-to-month,2015.35,79.85,25,24-48,True,Bank transfer (automatic),3,1,37.5,79.85,0,2022-12-14
+5433-KYGHE,month-to-month,1164.05,86.0,14,12-24,False,Mailed check,1,2,37.0,86.0,0,2022-12-13
+6549-YMFAW,month-to-month,204.55,21.25,9,6-12,False,Mailed check,1,0,36.0,21.25,0,2022-12-01
+1216-JWVUX,month-to-month,1901.05,75.5,25,24-48,False,Electronic check,2,2,28.25,75.5,0,2022-12-08
+4381-MHQDC,two year,2879.9,65.0,47,24-48,False,Mailed check,1,2,27.75,65.0,0,2022-12-17
+4018-PPNDW,two year,1551.6,24.1,61,48+,False,Mailed check,3,3,32.2,24.1,0,2022-12-26
+7379-POKDZ,month-to-month,208.85,70.3,3,0-6,True,Electronic check,1,2,38.75,70.3,0,2022-12-10
+8823-RLPWL,two year,8065.65,110.65,72,48+,False,Credit card (automatic),3,1,30.2,110.65,0,2022-12-26
+4678-DVQEO,month-to-month,52.2,52.2,1,0-6,True,Electronic check,1,1,51.0,52.2,0,2022-12-11
+4992-LTJNE,two year,3983.6,55.3,72,48+,False,Bank transfer (automatic),1,1,43.25,55.3,0,2022-12-22
+6286-ZHAOK,month-to-month,507.4,25.55,20,12-24,False,Bank transfer (automatic),1,0,39.0,25.55,0,2022-12-13
+1820-TQVEV,month-to-month,69.55,69.55,1,0-6,True,Electronic check,1,1,37.75,69.55,0,2022-12-11
+3551-GAEGL,one year,938.65,30.4,34,24-48,False,Bank transfer (automatic),1,1,16.33,30.4,0,2022-12-10
+3027-ZTDHO,month-to-month,89.9,89.9,1,0-6,True,Electronic check,1,0,51.0,89.9,0,2022-12-01
+4124-MMETB,month-to-month,2104.55,94.65,22,12-24,True,Credit card (automatic),2,1,32.75,94.65,0,2022-12-13
+7997-EASSD,one year,4965.1,81.2,63,48+,False,Credit card (automatic),1,0,48.0,81.2,0,2022-12-12
+1907-UBQFC,month-to-month,688.65,72.85,10,6-12,True,Electronic check,1,3,28.8,72.85,0,2022-12-21
+3865-YIOTT,one year,7848.5,106.1,72,48+,False,Bank transfer (automatic),1,1,29.5,106.1,0,2022-12-09
+0811-GSDTP,month-to-month,382.2,30.15,13,12-24,False,Electronic check,3,0,36.6,30.15,0,2022-12-24
+6231-WFGFH,month-to-month,77.6,20.5,4,0-6,False,Mailed check,1,2,40.2,20.5,0,2022-12-20
+3261-CQXOL,two year,1813.35,25.45,71,48+,False,Bank transfer (automatic),1,2,31.0,25.45,0,2022-12-08
+1106-HRLKZ,two year,808.95,19.6,40,24-48,False,Mailed check,1,1,39.4,19.6,0,2022-12-15
+8165-ZJRNM,two year,1679.25,23.75,72,48+,False,Bank transfer (automatic),1,0,28.5,23.75,0,2022-12-17
+9391-TTOYH,month-to-month,470.2,19.5,23,12-24,False,Mailed check,1,0,56.33,19.5,0,2022-12-19
+4184-TJFAN,month-to-month,273.75,88.3,3,0-6,True,Mailed check,2,2,35.2,88.3,0,2022-12-16
+7296-PIXQY,month-to-month,1046.5,70.2,14,12-24,False,Electronic check,1,3,18.5,70.2,0,2022-12-21
+4026-SKKHW,month-to-month,152.3,50.25,3,0-6,False,Mailed check,2,1,37.4,50.25,0,2022-12-28
+5981-ITEMU,month-to-month,3706.95,97.1,40,24-48,True,Bank transfer (automatic),1,2,25.0,97.1,0,2022-12-24
+8999-BOHSE,month-to-month,1047.7,89.7,11,6-12,True,Bank transfer (automatic),3,1,24.6,89.7,0,2022-12-21
+8659-IOOPU,two year,7159.7,100.45,71,48+,False,Electronic check,1,1,19.0,100.45,0,2022-12-19
+9578-FOMUK,month-to-month,324.15,24.8,15,12-24,False,Electronic check,1,1,22.67,24.8,0,2022-12-01
+3391-JSQEW,month-to-month,2058.5,50.15,40,24-48,False,Mailed check,1,0,38.0,50.15,0,2022-12-28
+6900-RBKER,two year,4577.75,89.45,52,48+,False,Credit card (automatic),3,2,28.8,89.45,0,2022-12-10
+8992-CEUEN,month-to-month,18.85,18.85,1,0-6,False,Electronic check,1,0,16.5,18.85,0,2022-12-18
+5268-DSMNQ,one year,5936.55,97.95,62,48+,False,Credit card (automatic),3,0,43.0,97.95,0,2022-12-21
+6242-MBHPK,month-to-month,2326.05,95.1,23,12-24,False,Electronic check,1,0,33.5,95.1,0,2022-12-15
+8399-YNDCH,month-to-month,1236.15,60.05,21,12-24,True,Bank transfer (automatic),1,0,55.5,60.05,0,2022-12-28
+7670-ZBPOQ,one year,3478.75,61.05,58,48+,False,Bank transfer (automatic),1,0,6.0,61.05,0,2022-12-18
+6807-SIWJI,one year,3887.25,104.85,38,24-48,False,Electronic check,3,2,31.0,104.85,0,2022-12-13
+3927-NLNRY,one year,4867.95,94.25,53,48+,True,Bank transfer (automatic),1,1,18.4,94.25,0,2022-12-10
+8268-YDIXR,one year,5253.95,93.15,56,48+,False,Electronic check,2,3,39.2,93.15,0,2022-12-17
+4291-SHSBH,month-to-month,521.35,69.55,7,6-12,False,Electronic check,3,1,55.0,69.55,0,2022-12-11
+1618-CFHME,month-to-month,143.35,75.9,2,0-6,True,Electronic check,2,1,32.8,75.9,0,2022-12-02
+0384-RVBPI,month-to-month,1398.6,64.4,20,12-24,False,Credit card (automatic),2,0,46.0,64.4,0,2022-12-05
+5565-FILXA,month-to-month,1529.2,96.15,16,12-24,True,Electronic check,2,0,41.4,96.15,0,2022-12-28
+8711-LOBKY,two year,1188.25,19.85,59,48+,False,Mailed check,1,1,43.67,19.85,0,2022-12-07
+1866-NXPSP,one year,2680.15,75.55,36,24-48,False,Mailed check,1,1,29.67,75.55,0,2022-12-28
+7831-QGOXH,month-to-month,1553.9,85.2,18,12-24,True,Electronic check,1,0,35.0,85.2,0,2022-12-09
+9831-BPFRI,one year,3474.45,89.55,39,24-48,True,Electronic check,2,2,33.4,89.55,0,2022-12-12
+1725-MIMXW,month-to-month,19.45,19.45,1,0-6,True,Mailed check,1,2,24.75,19.45,0,2022-12-06
+4671-LXRDQ,month-to-month,96.45,45.0,2,0-6,True,Mailed check,1,1,15.8,45.0,0,2022-12-28
+1084-MNSMJ,two year,4421.95,85.5,51,48+,False,Credit card (automatic),2,0,42.6,85.5,0,2022-12-08
+4291-HPAXL,month-to-month,19.85,19.85,1,0-6,False,Mailed check,1,1,35.0,19.85,0,2022-12-05
+9432-RUVSL,two year,4904.25,102.5,48,48+,False,Credit card (automatic),2,1,38.6,102.5,0,2022-12-21
+0895-UADGO,two year,343.45,44.55,8,6-12,False,Mailed check,1,1,35.5,44.55,0,2022-12-23
+3870-SPZSI,two year,7869.05,113.05,70,48+,False,Credit card (automatic),2,1,18.0,113.05,0,2022-12-11
+4652-ODEVH,two year,1088.25,24.45,45,24-48,False,Mailed check,1,0,35.25,24.45,0,2022-12-21
+6510-UPNKS,one year,615.35,24.8,23,12-24,False,Credit card (automatic),2,0,36.0,24.8,0,2022-12-24
+1571-SAVHK,month-to-month,1132.75,99.95,12,12-24,True,Mailed check,1,2,34.33,99.95,0,2022-12-04
+1666-JZPZT,month-to-month,1291.35,49.0,27,24-48,False,Mailed check,1,1,39.0,49.0,0,2022-12-18
+5514-YQENT,two year,4507.15,111.15,41,24-48,False,Electronic check,2,2,30.4,111.15,0,2022-12-24
+6806-YDEUL,month-to-month,106.8,19.5,6,6-12,False,Bank transfer (automatic),2,1,32.67,19.5,0,2022-12-27
+7041-TXQJH,month-to-month,1478.85,40.2,37,24-48,False,Credit card (automatic),1,1,27.5,40.2,0,2022-12-12
+7427-AUFPY,two year,1008.7,19.65,54,48+,False,Credit card (automatic),1,2,39.0,19.65,0,2022-12-01
+2811-POVEX,month-to-month,2130.55,88.45,23,12-24,False,Bank transfer (automatic),1,0,13.0,88.45,0,2022-12-20
+6518-KZXCB,two year,566.5,25.25,22,12-24,False,Mailed check,1,2,19.6,25.25,0,2022-12-08
+3223-DWFIO,month-to-month,261.65,69.35,4,0-6,False,Electronic check,1,0,31.5,69.35,0,2022-12-06
+0799-DDIHE,month-to-month,639.45,46.3,15,12-24,False,Electronic check,1,2,40.0,46.3,0,2022-12-11
+7675-OZCZG,month-to-month,127.1,45.0,3,0-6,True,Electronic check,1,2,36.0,45.0,0,2022-12-04
+9391-EOYLI,month-to-month,950.2,80.45,12,12-24,True,Electronic check,2,1,36.0,80.45,0,2022-12-07
+2387-KDZQY,one year,279.5,20.1,17,12-24,False,Mailed check,1,1,24.25,20.1,0,2022-12-11
+1971-DTCZB,two year,6468.6,90.95,72,48+,False,Bank transfer (automatic),3,1,38.8,90.95,0,2022-12-12
+1262-OPMFY,month-to-month,655.9,75.75,9,6-12,True,Bank transfer (automatic),2,3,32.2,75.75,0,2022-12-15
+1899-VXWXM,one year,5082.8,106.1,48,48+,True,Credit card (automatic),1,0,24.2,106.1,0,2022-12-15
+4690-LLKUA,month-to-month,770.6,45.05,17,12-24,True,Electronic check,2,2,30.2,45.05,0,2022-12-27
+5442-XSDCW,month-to-month,868.5,79.5,11,6-12,True,Bank transfer (automatic),2,3,27.4,79.5,0,2022-12-16
+9659-QEQSY,month-to-month,5125.5,115.65,45,24-48,False,Electronic check,1,0,47.5,115.65,0,2022-12-24
+6839-ITVZJ,month-to-month,1616.15,60.05,26,24-48,True,Electronic check,2,2,38.8,60.05,0,2022-12-11
+6961-MJKBO,two year,943.0,20.45,47,24-48,False,Bank transfer (automatic),1,1,30.75,20.45,0,2022-12-15
+2081-VEYEH,month-to-month,318.6,107.95,3,0-6,False,Electronic check,1,2,34.75,107.95,0,2022-12-03
+2587-YNLES,two year,100.35,20.1,6,6-12,False,Mailed check,4,1,30.4,20.1,0,2022-12-05
+7511-YMXVQ,month-to-month,418.8,45.4,9,6-12,True,Electronic check,2,1,28.0,45.4,0,2022-12-06
+0134-XWXCE,one year,3268.05,74.85,44,24-48,False,Bank transfer (automatic),1,0,47.0,74.85,0,2022-12-18
+6181-AXXYF,two year,1859.1,24.75,72,48+,False,Credit card (automatic),1,1,28.67,24.75,0,2022-12-10
+7416-CKTEP,two year,1134.25,19.6,57,48+,False,Bank transfer (automatic),2,1,33.2,19.6,0,2022-12-09
+3506-OVLKD,one year,954.9,26.2,35,24-48,False,Bank transfer (automatic),1,1,32.75,26.2,0,2022-12-19
+6650-VJONK,month-to-month,43.85,43.85,1,0-6,False,Bank transfer (automatic),1,0,51.33,43.85,0,2022-12-10
+3030-YDNRM,month-to-month,572.45,74.85,8,6-12,False,Electronic check,1,2,34.25,74.85,0,2022-12-20
+3173-WSSUE,two year,1415.85,19.7,71,48+,False,Credit card (automatic),1,1,24.0,19.7,0,2022-12-06
+4143-HHPMK,month-to-month,4338.6,85.35,52,48+,True,Electronic check,1,2,23.33,85.35,0,2022-12-08
+7010-BRBUU,two year,1734.65,24.1,72,48+,False,Credit card (automatic),1,1,34.25,24.1,0,2022-12-03
+3062-ICYZQ,month-to-month,4539.35,93.8,51,48+,False,Electronic check,3,0,26.5,93.8,0,2022-12-06
+3946-JEWRQ,one year,4563.0,95.2,47,24-48,False,Credit card (automatic),1,0,13.0,95.2,0,2022-12-10
+4587-NUKOX,month-to-month,246.5,79.1,3,0-6,True,Electronic check,1,0,21.5,79.1,0,2022-12-23
+5504-WSIUR,one year,6385.95,90.25,70,48+,False,Bank transfer (automatic),1,1,53.4,90.25,0,2022-12-14
+5619-PTMIK,month-to-month,2459.8,53.1,46,24-48,False,Electronic check,1,1,22.0,53.1,0,2022-12-07
+4445-KWOKW,one year,2421.6,60.15,42,24-48,False,Bank transfer (automatic),1,1,30.0,60.15,0,2022-12-09
+5110-CHOPY,two year,3237.05,53.6,60,48+,False,Electronic check,1,2,34.25,53.6,0,2022-12-02
+9497-QCMMS,month-to-month,93.55,93.55,1,0-6,True,Electronic check,1,1,45.33,93.55,0,2022-12-01
+7336-RLLRH,one year,2204.35,80.85,27,24-48,False,Mailed check,1,2,21.25,80.85,0,2022-12-21
+9993-LHIEB,two year,4627.65,67.85,67,48+,False,Mailed check,1,0,20.0,67.85,0,2022-12-09
+0017-DINOC,two year,2460.55,45.2,54,48+,False,Credit card (automatic),1,1,50.0,45.2,0,2022-12-11
+4452-ROHMO,two year,331.6,19.6,15,12-24,False,Mailed check,1,1,26.0,19.6,0,2022-12-14
+8305-VHZBZ,month-to-month,20.2,20.2,1,0-6,True,Mailed check,1,0,25.0,20.2,0,2022-12-07
+5804-HYIEZ,month-to-month,7554.05,106.05,70,48+,False,Electronic check,1,1,24.0,106.05,0,2022-12-02
+5934-TSSAU,month-to-month,1702.9,75.3,23,12-24,False,Credit card (automatic),1,1,50.0,75.3,0,2022-12-17
+2251-PYLPB,two year,5810.9,79.55,72,48+,False,Credit card (automatic),2,1,33.0,79.55,0,2022-12-19
+3373-DIUUN,two year,711.9,21.25,30,24-48,False,Mailed check,1,3,37.2,21.25,0,2022-12-17
+1391-UBDAR,month-to-month,818.45,72.9,11,6-12,False,Electronic check,1,1,49.0,72.9,0,2022-12-13
+8007-YYPWD,two year,369.1,25.05,15,12-24,False,Bank transfer (automatic),1,1,37.0,25.05,0,2022-12-03
+9061-TIHDA,month-to-month,1233.65,95.25,13,12-24,True,Electronic check,1,2,22.5,95.25,0,2022-12-27
+1895-QTKDO,month-to-month,43.95,43.95,1,0-6,False,Credit card (automatic),2,3,39.8,43.95,0,2022-12-04
+6131-IUNXN,month-to-month,382.2,20.2,19,12-24,False,Mailed check,2,1,31.25,20.2,0,2022-12-07
+5197-YPYBZ,two year,274.7,25.25,12,12-24,False,Credit card (automatic),1,1,26.0,25.25,0,2022-12-14
+8337-MSSXB,month-to-month,1180.95,86.3,14,12-24,True,Electronic check,1,1,37.0,86.3,0,2022-12-02
+5494-WOZRZ,two year,5999.85,82.0,71,48+,False,Credit card (automatic),1,0,42.0,82.0,0,2022-12-17
+1153-GNOLC,one year,1309.0,39.1,33,24-48,False,Electronic check,1,1,31.0,39.1,0,2022-12-27
+5242-UOWHD,two year,929.2,20.35,45,24-48,False,Mailed check,1,4,30.2,20.35,0,2022-12-14
+5527-ACHSO,month-to-month,829.3,70.5,11,6-12,False,Mailed check,1,3,39.2,70.5,0,2022-12-16
+0336-PIKEI,two year,5360.75,74.4,72,48+,False,Bank transfer (automatic),1,2,34.67,74.4,0,2022-12-23
+9537-VHDTA,month-to-month,51.2,51.2,1,0-6,False,Mailed check,1,0,27.67,51.2,0,2022-12-04
+8064-RAVOH,month-to-month,49.85,49.85,1,0-6,False,Electronic check,2,0,30.67,49.85,0,2022-12-21
+4947-DSMXK,month-to-month,3410.0,97.7,34,24-48,False,Bank transfer (automatic),1,0,36.8,97.7,0,2022-12-14
+8197-BFWVU,two year,6688.95,93.25,72,48+,False,Bank transfer (automatic),1,1,34.0,93.25,0,2022-12-23
+9776-OJUZI,month-to-month,6223.3,95.45,65,48+,False,Bank transfer (automatic),1,2,48.5,95.45,0,2022-12-15
+1306-RPWXZ,two year,1024.65,20.45,49,48+,False,Credit card (automatic),1,0,47.33,20.45,0,2022-12-22
+3211-ILJTT,month-to-month,1214.05,70.4,17,12-24,True,Bank transfer (automatic),1,0,23.0,70.4,0,2022-12-08
+4094-NSEDU,month-to-month,1973.75,94.25,21,12-24,True,Electronic check,1,1,29.0,94.25,0,2022-12-07
+2637-FKFSY,month-to-month,130.15,46.1,3,0-6,False,Mailed check,2,1,30.0,46.1,0,2022-12-15
+9755-JHNMN,two year,3306.85,67.4,49,48+,False,Bank transfer (automatic),1,3,40.5,67.4,0,2022-12-06
+1846-XWOQN,month-to-month,70.15,70.15,1,0-6,True,Electronic check,1,1,33.67,70.15,0,2022-12-04
+0235-KGSLC,month-to-month,85.55,85.55,1,0-6,True,Credit card (automatic),1,0,33.0,85.55,0,2022-12-23
+6734-GMPVK,month-to-month,550.6,105.3,5,0-6,False,Electronic check,1,1,34.6,105.3,0,2022-12-14
+3771-PZOBW,month-to-month,1781.35,90.7,20,12-24,False,Credit card (automatic),2,2,35.0,90.7,0,2022-12-13
+3694-DELSO,month-to-month,156.1,38.55,4,0-6,False,Credit card (automatic),1,0,7.0,38.55,0,2022-12-11
+1465-WCZVT,month-to-month,60.65,19.65,3,0-6,False,Mailed check,2,1,35.4,19.65,0,2022-12-25
+2171-UDMFD,month-to-month,674.55,19.45,32,24-48,False,Credit card (automatic),1,3,40.0,19.45,0,2022-12-25
+7602-MVRMB,two year,8058.85,110.45,72,48+,False,Bank transfer (automatic),1,2,24.0,110.45,0,2022-12-09
+5406-KGRMX,two year,1719.15,24.55,71,48+,False,Electronic check,1,2,27.0,24.55,0,2022-12-20
+7717-BICXI,two year,1205.05,20.55,60,48+,False,Mailed check,1,0,18.5,20.55,0,2022-12-27
+5630-IXDXV,month-to-month,4849.1,106.35,47,24-48,False,Electronic check,1,4,33.2,106.35,0,2022-12-16
+9135-MGVPY,two year,5878.9,84.7,69,48+,False,Mailed check,1,0,7.0,84.7,0,2022-12-19
+7878-JGDKK,month-to-month,220.75,44.55,4,0-6,False,Mailed check,1,2,25.2,44.55,0,2022-12-16
+6614-YWYSC,two year,1501.75,25.0,61,48+,False,Bank transfer (automatic),2,0,32.6,25.0,0,2022-12-21
+9206-GVPEQ,month-to-month,706.85,54.45,13,12-24,True,Electronic check,2,0,30.25,54.45,0,2022-12-15
+3707-GNWHM,month-to-month,74.25,74.25,1,0-6,True,Mailed check,4,0,47.8,74.25,0,2022-12-17
+0203-HHYIJ,one year,676.35,25.3,25,24-48,True,Bank transfer (automatic),2,2,27.75,25.3,0,2022-12-26
+2882-DDZPG,month-to-month,227.45,19.45,12,12-24,False,Bank transfer (automatic),1,1,20.67,19.45,0,2022-12-26
+4526-ZJJTM,month-to-month,2191.15,88.4,25,24-48,False,Bank transfer (automatic),2,2,39.25,88.4,0,2022-12-16
+1135-HIORI,one year,7266.95,111.45,64,48+,False,Electronic check,3,0,27.6,111.45,0,2022-12-03
+5028-GZLDO,month-to-month,140.7,70.7,2,0-6,True,Credit card (automatic),1,2,37.0,70.7,0,2022-12-16
+4328-VUFWD,one year,2209.15,59.3,39,24-48,False,Electronic check,1,3,31.0,59.3,0,2022-12-12
+7026-YMSBE,one year,625.05,19.7,30,24-48,False,Mailed check,1,0,9.0,19.7,0,2022-12-14
+1569-TTNYJ,month-to-month,412.1,78.75,5,0-6,True,Electronic check,2,1,31.0,78.75,0,2022-12-06
+0254-KCJGT,one year,4354.45,81.4,52,48+,False,Credit card (automatic),1,2,39.6,81.4,0,2022-12-16
+6402-SSEJG,one year,1540.2,61.05,25,24-48,False,Electronic check,1,1,24.67,61.05,0,2022-12-02
+4455-BFSPD,one year,6383.9,101.15,61,48+,False,Bank transfer (automatic),1,1,18.75,101.15,0,2022-12-02
+7909-FIOIY,month-to-month,434.8,24.85,19,12-24,False,Mailed check,1,0,32.33,24.85,0,2022-12-05
+6857-VWJDT,month-to-month,95.65,95.65,1,0-6,True,Mailed check,1,0,60.0,95.65,0,2022-12-21
+4404-HIBDJ,one year,1863.8,74.3,25,24-48,True,Mailed check,2,2,39.8,74.3,0,2022-12-03
+3251-YMVWZ,one year,1301.9,24.05,53,48+,False,Bank transfer (automatic),1,1,23.33,24.05,0,2022-12-28
+2002-MZHWP,month-to-month,20.5,20.5,1,0-6,True,Mailed check,1,0,16.5,20.5,0,2022-12-19
+7299-GNVPL,month-to-month,1936.85,84.4,23,12-24,False,Mailed check,3,1,38.25,84.4,0,2022-12-26
+6164-HAQTX,two year,3888.65,53.95,71,48+,False,Bank transfer (automatic),2,0,32.67,53.95,0,2022-12-19
+6176-YJWAS,two year,7114.25,97.95,72,48+,False,Credit card (automatic),3,1,24.4,97.95,0,2022-12-11
+5310-NOOVA,two year,907.05,19.95,46,24-48,False,Electronic check,2,1,26.8,19.95,0,2022-12-05
+3404-JNXAX,month-to-month,4116.9,80.75,51,48+,False,Electronic check,1,1,10.75,80.75,0,2022-12-16
+8996-ZROXE,one year,3035.8,53.5,57,48+,False,Electronic check,1,0,41.0,53.5,0,2022-12-28
+2207-QPJED,month-to-month,3371.75,90.0,37,24-48,False,Electronic check,1,0,52.0,90.0,0,2022-12-28
+4770-UEZOX,month-to-month,144.8,74.75,2,0-6,False,Electronic check,1,3,22.4,74.75,0,2022-12-23
+5456-ITGIC,two year,4641.1,64.45,72,48+,False,Credit card (automatic),2,1,21.67,64.45,0,2022-12-12
+8715-KKTFG,one year,6518.35,103.3,61,48+,False,Bank transfer (automatic),2,0,38.25,103.3,0,2022-12-13
+1728-BQDMA,month-to-month,82.7,44.45,2,0-6,False,Electronic check,1,2,36.75,44.45,0,2022-12-11
+7005-CCBKV,month-to-month,556.35,84.4,6,6-12,True,Electronic check,2,0,36.33,84.4,0,2022-12-26
+4504-YOULA,month-to-month,2136.9,59.45,35,24-48,False,Credit card (automatic),1,1,29.33,59.45,0,2022-12-15
+5680-LQOGP,two year,5646.6,82.45,68,48+,False,Credit card (automatic),1,2,30.2,82.45,0,2022-12-26
+2386-LAHRK,month-to-month,53.5,53.5,1,0-6,True,Mailed check,1,0,14.33,53.5,0,2022-12-09
+1432-FPAXX,month-to-month,856.35,30.6,29,24-48,True,Electronic check,1,0,49.0,30.6,0,2022-12-27
+4892-VLANZ,month-to-month,19.8,19.8,1,0-6,True,Mailed check,2,0,23.75,19.8,0,2022-12-28
+2452-SNHFZ,month-to-month,3545.1,75.45,47,24-48,False,Credit card (automatic),1,0,31.5,75.45,0,2022-12-09
+3457-PQBYH,two year,1160.75,20.3,58,48+,False,Credit card (automatic),1,2,28.33,20.3,0,2022-12-03
+3745-HRPHI,two year,3632.0,54.65,66,48+,False,Bank transfer (automatic),1,0,23.5,54.65,0,2022-12-15
+5501-TVMGM,month-to-month,55.25,55.25,1,0-6,False,Electronic check,3,0,46.6,55.25,0,2022-12-28
+2378-YIZKA,two year,5607.75,85.0,68,48+,False,Credit card (automatic),1,1,37.0,85.0,0,2022-12-23
+0689-DSXGL,month-to-month,4433.3,85.8,52,48+,False,Bank transfer (automatic),1,0,23.0,85.8,0,2022-12-05
+8902-ZEOVF,one year,951.55,20.05,47,24-48,False,Mailed check,1,2,40.25,20.05,0,2022-12-19
+4282-MSACW,one year,8035.95,117.2,68,48+,False,Credit card (automatic),1,0,59.0,117.2,0,2022-12-22
+2636-ALXXZ,month-to-month,69.6,69.6,1,0-6,True,Electronic check,1,1,34.25,69.6,0,2022-12-21
+9885-CSMWE,month-to-month,78.45,78.45,1,0-6,True,Electronic check,1,0,11.0,78.45,0,2022-12-25
+4232-JGKIY,month-to-month,19.2,19.2,1,0-6,False,Electronic check,1,2,32.25,19.2,0,2022-12-07
+9139-TWBAS,one year,1190.5,47.85,26,24-48,False,Bank transfer (automatic),2,2,44.5,47.85,0,2022-12-20
+7657-DYEPJ,one year,2497.35,70.15,38,24-48,True,Credit card (automatic),1,2,38.4,70.15,0,2022-12-01
+9494-BDNNC,one year,6273.4,95.3,66,48+,False,Electronic check,2,2,40.5,95.3,0,2022-12-11
+8690-ZVLCL,two year,6161.9,88.0,68,48+,False,Credit card (automatic),1,1,41.25,88.0,0,2022-12-13
+3623-FQBOX,month-to-month,416.4,19.95,21,12-24,False,Mailed check,1,1,43.0,19.95,0,2022-12-05
+3658-KIBGF,month-to-month,54.9,54.9,1,0-6,True,Electronic check,1,1,18.0,54.9,0,2022-12-11
+6285-FTQBF,two year,1867.7,25.55,72,48+,False,Credit card (automatic),1,2,29.2,25.55,0,2022-12-25
+7636-PEPNS,one year,2413.05,44.1,58,48+,False,Mailed check,2,1,23.2,44.1,0,2022-12-06
+8434-PNQZX,two year,3373.4,78.45,42,24-48,False,Credit card (automatic),2,2,29.6,78.45,0,2022-12-23
+1625-JAIIY,one year,5685.8,83.0,68,48+,True,Electronic check,1,1,30.0,83.0,0,2022-12-04
+7339-POGZN,month-to-month,214.55,50.7,4,0-6,False,Electronic check,1,1,44.0,50.7,0,2022-12-27
+2828-SLQPF,month-to-month,865.85,45.0,19,12-24,False,Bank transfer (automatic),1,1,37.2,45.0,0,2022-12-18
+0426-TIRNE,month-to-month,20.9,20.9,1,0-6,True,Mailed check,1,1,37.33,20.9,0,2022-12-16
+5019-GQVCR,month-to-month,3645.6,84.85,43,24-48,False,Electronic check,1,1,37.2,84.85,0,2022-12-18
+8914-RBTSB,month-to-month,3019.5,93.8,31,24-48,True,Electronic check,1,2,46.33,93.8,0,2022-12-14
+4452-QIIEB,month-to-month,278.4,43.9,7,6-12,False,Mailed check,2,2,29.2,43.9,0,2022-12-13
+7860-UXCRM,two year,4674.55,74.5,63,48+,False,Credit card (automatic),3,1,33.8,74.5,0,2022-12-06
+9540-JYROE,month-to-month,551.35,70.1,8,6-12,True,Mailed check,1,2,27.33,70.1,0,2022-12-25
+3038-PQIUY,month-to-month,2522.4,66.15,38,24-48,False,Bank transfer (automatic),1,1,45.0,66.15,0,2022-12-03
+8707-RMEZH,one year,6055.55,87.3,69,48+,False,Credit card (automatic),1,0,56.0,87.3,0,2022-12-14
+2203-GHNWN,month-to-month,1928.7,79.65,24,24-48,False,Mailed check,2,1,31.8,79.65,0,2022-12-18
+9738-QLWTP,one year,3219.75,81.9,39,24-48,False,Electronic check,1,1,43.67,81.9,0,2022-12-26
+6257-RJOHI,month-to-month,202.3,50.8,4,0-6,False,Mailed check,1,2,29.75,50.8,0,2022-12-08
+6473-ULUHT,month-to-month,1398.25,84.9,16,12-24,False,Electronic check,1,2,34.5,84.9,0,2022-12-06
+6038-GCYEC,month-to-month,1240.25,54.15,24,24-48,True,Credit card (automatic),1,0,50.0,54.15,0,2022-12-18
+9537-JALFH,two year,1356.7,19.9,69,48+,False,Bank transfer (automatic),1,1,36.6,19.9,0,2022-12-14
+3724-BSCVH,one year,242.4,20.45,10,6-12,False,Mailed check,2,0,22.67,20.45,0,2022-12-12
+6352-GIGGQ,one year,5903.15,88.8,67,48+,False,Bank transfer (automatic),1,1,42.33,88.8,0,2022-12-27
+2391-SOORI,month-to-month,219.65,49.35,4,0-6,True,Electronic check,1,3,32.2,49.35,0,2022-12-23
+9136-ALYBR,month-to-month,24.45,24.45,1,0-6,True,Mailed check,1,2,31.8,24.45,0,2022-12-25
+2959-MJHIC,month-to-month,307.4,80.35,4,0-6,True,Electronic check,1,0,28.6,80.35,0,2022-12-21
+5960-WPXQM,month-to-month,79.05,79.05,1,0-6,True,Electronic check,1,3,30.4,79.05,0,2022-12-12
+7973-DZRKH,two year,5930.05,90.95,66,48+,False,Credit card (automatic),1,1,42.0,90.95,0,2022-12-08
+2903-YYTBW,month-to-month,44.55,44.55,1,0-6,False,Electronic check,3,0,22.33,44.55,0,2022-12-08
+1833-VGRUM,month-to-month,74.2,74.2,1,0-6,True,Electronic check,1,1,31.75,74.2,0,2022-12-03
+8747-UDCOI,two year,1319.95,19.35,65,48+,False,Bank transfer (automatic),1,0,52.0,19.35,0,2022-12-16
+6946-LMSQS,one year,2177.45,89.05,25,24-48,True,Electronic check,1,2,29.4,89.05,0,2022-12-04
+3932-CMDTD,one year,443.9,105.65,4,0-6,True,Electronic check,2,0,37.33,105.65,0,2022-12-28
+3675-EQOZA,month-to-month,93.55,20.65,5,0-6,False,Bank transfer (automatic),1,1,52.0,20.65,0,2022-12-07
+5701-SVCWR,month-to-month,24.0,24.0,1,0-6,False,Mailed check,1,0,47.0,24.0,0,2022-12-19
+2898-LSJGD,one year,1157.05,55.95,21,12-24,True,Electronic check,1,1,32.0,55.95,0,2022-12-28
+7359-PTSXY,month-to-month,45.75,45.75,1,0-6,True,Electronic check,3,2,43.6,45.75,0,2022-12-23
+9470-RTWDV,one year,2083.1,82.0,26,24-48,False,Credit card (automatic),1,2,39.33,82.0,0,2022-12-09
+9025-AOMKI,month-to-month,536.4,93.55,6,6-12,True,Bank transfer (automatic),1,1,42.33,93.55,0,2022-12-11
+6339-TBELP,two year,6172.0,86.4,71,48+,False,Credit card (automatic),1,0,40.0,86.4,0,2022-12-17
+0432-CAJZV,month-to-month,237.65,90.7,3,0-6,False,Mailed check,1,1,40.25,90.7,0,2022-12-23
+1200-TUZHR,month-to-month,695.75,85.2,8,6-12,False,Electronic check,1,2,31.6,85.2,0,2022-12-18
+6023-GSSXW,two year,4131.2,61.45,69,48+,False,Credit card (automatic),1,0,26.0,61.45,0,2022-12-10
+6752-APNJL,month-to-month,2301.15,54.5,42,24-48,False,Mailed check,1,2,42.67,54.5,0,2022-12-02
+5276-KQWHG,month-to-month,131.65,69.6,2,0-6,True,Electronic check,1,0,29.0,69.6,0,2022-12-11
+0420-HLGXF,month-to-month,4036.0,99.75,39,24-48,False,Electronic check,1,1,31.8,99.75,0,2022-12-19
+2565-JSLRY,month-to-month,24.05,24.05,1,0-6,True,Mailed check,1,2,35.25,24.05,0,2022-12-10
+1485-YDHMM,month-to-month,4631.7,93.25,52,48+,False,Bank transfer (automatic),2,2,24.75,93.25,0,2022-12-07
+7446-YPODE,month-to-month,662.95,60.25,11,6-12,False,Bank transfer (automatic),1,0,19.0,60.25,0,2022-12-22
+2476-YGEFM,month-to-month,2215.25,76.0,29,24-48,False,Credit card (automatic),1,2,32.0,76.0,0,2022-12-26
+5356-RHIPP,month-to-month,20.2,20.2,1,0-6,True,Mailed check,1,1,25.0,20.2,0,2022-12-08
+0746-JTRFU,month-to-month,56.35,25.05,2,0-6,True,Electronic check,1,1,27.5,25.05,0,2022-12-20
+5208-FVQKB,two year,4664.15,67.95,70,48+,False,Mailed check,1,3,41.2,67.95,0,2022-12-07
+3079-BCHLN,one year,942.95,19.9,47,24-48,False,Bank transfer (automatic),2,1,25.0,19.9,0,2022-12-14
+8874-EJNSR,two year,987.95,25.2,39,24-48,False,Mailed check,1,2,42.5,25.2,0,2022-12-23
+5934-RMPOV,month-to-month,1816.75,84.75,22,12-24,False,Electronic check,1,1,42.67,84.75,0,2022-12-17
+5457-COLHT,two year,5542.55,80.65,69,48+,False,Bank transfer (automatic),2,1,23.8,80.65,0,2022-12-28
+4664-NJCMS,two year,2016.3,59.55,33,24-48,False,Bank transfer (automatic),1,2,26.67,59.55,0,2022-12-13
+5016-LIPDW,one year,1061.6,19.4,57,48+,False,Mailed check,1,2,23.67,19.4,0,2022-12-13
+6124-ACRHJ,month-to-month,19.75,19.75,1,0-6,False,Mailed check,1,0,17.0,19.75,0,2022-12-10
+5153-LXKDT,two year,7467.5,110.2,68,48+,False,Electronic check,1,1,24.5,110.2,0,2022-12-20
+5485-WUYWF,month-to-month,94.55,66.4,2,0-6,True,Bank transfer (automatic),2,1,46.0,66.4,0,2022-12-04
+6821-JPCDC,one year,4692.95,97.05,48,48+,False,Electronic check,1,0,59.0,97.05,0,2022-12-10
+2789-CZANW,two year,6997.3,110.3,64,48+,False,Bank transfer (automatic),1,1,28.2,110.3,0,2022-12-07
+0958-YHXGP,month-to-month,497.3,69.9,7,6-12,False,Mailed check,1,1,23.5,69.9,0,2022-12-07
+6741-QRLUP,two year,4995.35,80.3,63,48+,False,Credit card (automatic),1,0,17.0,80.3,0,2022-12-13
+8642-GVWRF,month-to-month,165.0,79.7,2,0-6,True,Bank transfer (automatic),1,2,40.67,79.7,0,2022-12-19
+4915-BFSXL,two year,4858.7,68.95,70,48+,False,Credit card (automatic),1,0,31.0,68.95,0,2022-12-16
+7576-JMYWV,month-to-month,4972.1,110.2,46,24-48,False,Electronic check,1,2,26.8,110.2,0,2022-12-16
+1307-ATKGB,month-to-month,2187.15,89.55,24,24-48,False,Electronic check,1,1,39.0,89.55,0,2022-12-27
+0082-OQIQY,month-to-month,2607.6,94.2,29,24-48,False,Electronic check,1,1,46.67,94.2,0,2022-12-02
+2479-BRAMR,month-to-month,3273.55,83.75,41,24-48,True,Bank transfer (automatic),1,0,38.0,83.75,0,2022-12-08
+7853-WNZSY,month-to-month,19.75,19.75,1,0-6,False,Credit card (automatic),1,0,21.67,19.75,0,2022-12-10
+8606-OEGQZ,two year,454.65,25.3,18,12-24,False,Credit card (automatic),2,2,40.75,25.3,0,2022-12-19
+0103-CSITQ,one year,6252.7,109.4,57,48+,False,Bank transfer (automatic),1,3,37.25,109.4,0,2022-12-13
+4860-IJUDE,month-to-month,956.65,73.75,13,12-24,False,Credit card (automatic),2,1,29.0,73.75,0,2022-12-17
+3750-CKVKH,month-to-month,116.65,67.75,2,0-6,True,Electronic check,1,1,35.6,67.75,0,2022-12-04
+8375-KVTHK,one year,6754.35,100.3,68,48+,False,Electronic check,1,0,43.0,100.3,0,2022-12-23
+1386-ZIKUV,month-to-month,130.55,18.95,7,6-12,False,Mailed check,1,1,29.0,18.95,0,2022-12-17
+2400-XIWIO,two year,6310.9,90.1,71,48+,False,Electronic check,2,0,32.33,90.1,0,2022-12-08
+1834-ABKHQ,one year,2610.65,50.95,52,48+,False,Bank transfer (automatic),1,3,28.75,50.95,0,2022-12-25
+0626-QXNGV,two year,1776.45,24.15,72,48+,False,Credit card (automatic),2,3,39.6,24.15,0,2022-12-02
+4732-RRJZC,month-to-month,144.35,20.25,7,6-12,False,Mailed check,2,1,36.5,20.25,0,2022-12-06
+8513-OLYGY,two year,8332.15,115.8,72,48+,False,Credit card (automatic),1,1,36.2,115.8,0,2022-12-18
+0311-QYWSS,month-to-month,314.6,49.45,6,6-12,False,Electronic check,2,2,33.8,49.45,0,2022-12-11
+5985-TBABQ,one year,2282.95,74.75,32,24-48,False,Mailed check,2,1,33.33,74.75,0,2022-12-07
+8780-RSYYU,month-to-month,532.1,19.2,25,24-48,False,Credit card (automatic),1,2,30.0,19.2,0,2022-12-27
+4007-NHVHI,month-to-month,5219.65,96.85,56,48+,False,Electronic check,1,2,26.25,96.85,0,2022-12-24
+8748-HFWBO,one year,357.7,19.9,19,12-24,False,Mailed check,1,1,27.0,19.9,0,2022-12-11
+0373-AIVNJ,one year,373.0,39.55,9,6-12,False,Mailed check,1,0,21.0,39.55,0,2022-12-27
+5729-KLZAR,month-to-month,302.75,80.85,4,0-6,True,Electronic check,1,1,30.0,80.85,0,2022-12-26
+0480-BIXDE,month-to-month,1743.05,96.8,19,12-24,False,Electronic check,3,0,24.5,96.8,0,2022-12-03
+5542-DHSXL,month-to-month,235.05,54.7,4,0-6,False,Mailed check,2,1,25.0,54.7,0,2022-12-28
+9102-OXKFY,two year,3116.15,54.15,59,48+,False,Credit card (automatic),1,2,37.33,54.15,0,2022-12-26
+6532-YLWSI,one year,1021.8,20.8,53,48+,True,Bank transfer (automatic),1,1,20.75,20.8,0,2022-12-02
+9300-AGZNL,month-to-month,94.0,94.0,1,0-6,True,Electronic check,1,1,25.33,94.0,0,2022-12-26
+0607-DAAHE,two year,1052.35,19.75,53,48+,True,Bank transfer (automatic),1,0,11.0,19.75,0,2022-12-02
+9200-NLNPD,one year,2959.8,54.05,56,48+,False,Bank transfer (automatic),1,1,29.5,54.05,0,2022-12-22
+5380-AFSSK,month-to-month,486.85,93.9,5,0-6,True,Mailed check,1,2,38.2,93.9,0,2022-12-19
+8404-GFGCZ,month-to-month,250.1,65.6,4,0-6,False,Electronic check,1,1,32.8,65.6,0,2022-12-08
+0440-EKDCF,two year,3753.2,60.15,62,48+,False,Credit card (automatic),2,2,47.5,60.15,0,2022-12-18
+5884-GCYMI,month-to-month,69.4,69.4,1,0-6,True,Mailed check,1,0,50.0,69.4,0,2022-12-26
+3217-FZDMN,month-to-month,742.95,94.45,8,6-12,True,Credit card (automatic),1,1,36.0,94.45,0,2022-12-21
+8313-AFGBW,two year,3522.65,73.6,47,24-48,False,Electronic check,1,2,37.2,73.6,0,2022-12-04
+3097-IDVPU,month-to-month,910.45,50.1,19,12-24,False,Credit card (automatic),3,1,25.0,50.1,0,2022-12-24
+7852-LECYP,month-to-month,1261.0,93.8,13,12-24,False,Credit card (automatic),1,2,24.75,93.8,0,2022-12-13
+5846-ABOBJ,two year,1730.65,24.45,71,48+,False,Bank transfer (automatic),1,1,22.0,24.45,0,2022-12-04
+0909-SDHNU,month-to-month,201.95,29.8,7,6-12,False,Mailed check,1,1,23.67,29.8,0,2022-12-27
+5360-XGYAZ,two year,4664.5,65.65,72,48+,False,Bank transfer (automatic),1,1,44.5,65.65,0,2022-12-28
+5429-LWCMV,month-to-month,1057.55,89.15,12,12-24,False,Electronic check,1,2,42.4,89.15,0,2022-12-17
+6094-ZIVKX,one year,3674.95,54.45,68,48+,False,Credit card (automatic),2,2,32.33,54.45,0,2022-12-10
+5018-LXQQG,month-to-month,1923.5,66.3,30,24-48,False,Bank transfer (automatic),2,1,40.0,66.3,0,2022-12-07
+6892-BOGQE,two year,1493.2,20.9,71,48+,False,Bank transfer (automatic),2,0,25.5,20.9,0,2022-12-06
+5995-SNNEW,month-to-month,2184.85,104.45,23,12-24,False,Electronic check,1,1,32.67,104.45,0,2022-12-20
+4879-GZLFH,month-to-month,3875.4,92.15,42,24-48,False,Electronic check,1,0,28.0,92.15,0,2022-12-14
+8314-HTWVE,two year,144.15,19.85,7,6-12,False,Mailed check,2,0,40.33,19.85,0,2022-12-05
+2995-UPRYS,one year,4062.2,99.2,40,24-48,True,Credit card (automatic),1,1,34.0,99.2,0,2022-12-14
+5317-FLPJF,two year,4193.4,61.35,66,48+,False,Bank transfer (automatic),1,1,21.4,61.35,0,2022-12-17
+6034-YMTOB,month-to-month,399.45,75.65,5,0-6,False,Mailed check,1,1,31.0,75.65,0,2022-12-08
+3850-OKINF,one year,4692.55,66.2,71,48+,False,Electronic check,1,2,45.2,66.2,0,2022-12-22
+7577-SWIFR,month-to-month,89.25,89.25,1,0-6,False,Electronic check,1,1,34.0,89.25,0,2022-12-25
+3797-FKOGQ,month-to-month,893.2,86.2,11,6-12,False,Electronic check,1,1,29.5,86.2,0,2022-12-22
+3970-XGJDU,two year,1123.65,19.2,62,48+,False,Credit card (automatic),1,3,31.8,19.2,0,2022-12-21
+8109-YUOHE,one year,946.95,56.1,17,12-24,False,Mailed check,1,1,54.33,56.1,0,2022-12-19
+5928-QLDHB,month-to-month,684.85,76.25,9,6-12,False,Electronic check,3,1,30.0,76.25,0,2022-12-24
+2480-SQIOB,month-to-month,169.65,44.8,4,0-6,False,Electronic check,1,1,39.0,44.8,0,2022-12-18
+5727-MYATE,two year,6397.6,90.8,72,48+,False,Credit card (automatic),1,0,16.75,90.8,0,2022-12-06
+6502-KUGLL,month-to-month,780.85,59.45,14,12-24,False,Bank transfer (automatic),1,0,25.5,59.45,0,2022-12-09
+9233-PSYHO,one year,4459.8,100.15,45,24-48,False,Bank transfer (automatic),1,2,56.25,100.15,0,2022-12-09
+5376-PCKNB,one year,7459.0,104.45,72,48+,False,Credit card (automatic),1,1,31.25,104.45,0,2022-12-07
+4060-LDNLU,month-to-month,639.7,96.2,7,6-12,False,Electronic check,2,2,26.2,96.2,0,2022-12-23
+4274-DRSQT,one year,6000.1,88.9,66,48+,False,Bank transfer (automatic),1,0,32.33,88.9,0,2022-12-03
+3049-SOLAY,month-to-month,292.85,95.2,3,0-6,True,Electronic check,2,1,51.5,95.2,0,2022-12-22
+3235-ETOOB,month-to-month,609.9,74.5,8,6-12,True,Electronic check,1,0,19.0,74.5,0,2022-12-03
+9708-KFDBY,month-to-month,20.55,20.55,1,0-6,False,Credit card (automatic),1,1,22.5,20.55,0,2022-12-08
+1334-PDUKM,one year,5762.95,86.45,68,48+,False,Credit card (automatic),1,1,9.0,86.45,0,2022-12-17
+9564-KCLHR,month-to-month,51.25,51.25,1,0-6,True,Mailed check,2,1,24.4,51.25,0,2022-12-15
+5338-YHWYT,two year,2302.35,61.45,37,24-48,False,Credit card (automatic),1,2,23.0,61.45,0,2022-12-26
+7718-UPSKJ,one year,7251.9,106.4,69,48+,False,Credit card (automatic),2,0,36.4,106.4,0,2022-12-04
+2690-DVRVK,one year,99.45,20.55,5,0-6,False,Electronic check,1,2,25.8,20.55,0,2022-12-17
+6386-SZZKH,two year,5293.2,107.95,49,48+,True,Bank transfer (automatic),1,1,37.5,107.95,0,2022-12-07
+9441-QHEVC,month-to-month,19.1,19.1,1,0-6,False,Mailed check,1,0,20.5,19.1,0,2022-12-02
+4919-IKATY,month-to-month,453.75,84.5,5,0-6,True,Electronic check,1,2,27.5,84.5,0,2022-12-07
+2786-GCDPI,month-to-month,5222.35,104.95,50,48+,False,Electronic check,1,1,33.2,104.95,0,2022-12-19
+9637-EIHEQ,month-to-month,50.8,50.8,1,0-6,True,Electronic check,2,2,39.2,50.8,0,2022-12-21
+6229-UOLQL,one year,2884.9,52.0,56,48+,False,Mailed check,2,1,26.33,52.0,0,2022-12-25
+8124-NZVGJ,one year,255.6,49.25,6,6-12,False,Mailed check,2,1,29.8,49.25,0,2022-12-21
+3936-QQFLL,month-to-month,39.3,19.75,2,0-6,False,Mailed check,2,0,44.33,19.75,0,2022-12-26
+2589-AYCRP,one year,989.05,19.75,50,48+,False,Bank transfer (automatic),2,1,33.8,19.75,0,2022-12-07
+5228-EXCET,month-to-month,1008.7,80.85,13,12-24,True,Electronic check,1,1,36.33,80.85,0,2022-12-12
+2455-USLMV,month-to-month,2613.4,84.75,31,24-48,False,Credit card (automatic),1,3,33.6,84.75,0,2022-12-22
+3512-IZIKN,two year,4759.75,65.3,70,48+,True,Credit card (automatic),2,2,22.0,65.3,0,2022-12-16
+3458-IDMFK,two year,499.4,20.75,25,24-48,False,Mailed check,3,1,25.2,20.75,0,2022-12-04
+1208-NBVFH,month-to-month,939.8,49.6,20,12-24,False,Electronic check,1,0,8.0,49.6,0,2022-12-26
+7609-YBPXG,two year,4735.2,87.1,54,48+,False,Bank transfer (automatic),1,1,27.0,87.1,0,2022-12-16
+5519-TEEUH,one year,682.15,20.15,33,24-48,False,Mailed check,3,1,29.5,20.15,0,2022-12-27
+5753-QQWPW,one year,1654.7,59.9,28,24-48,False,Electronic check,2,0,29.0,59.9,0,2022-12-27
+5044-LRQAQ,month-to-month,477.55,69.2,7,6-12,False,Bank transfer (automatic),1,0,31.0,69.2,0,2022-12-12
+1333-PBMXB,one year,1342.15,24.75,54,48+,False,Bank transfer (automatic),1,1,38.75,24.75,0,2022-12-10
+5985-BEHZK,one year,7578.05,105.0,72,48+,False,Credit card (automatic),2,2,41.4,105.0,0,2022-12-19
+9279-CJEOJ,month-to-month,2025.1,95.4,21,12-24,False,Bank transfer (automatic),1,0,46.0,95.4,0,2022-12-09
+8838-GPHZP,two year,1298.7,20.6,63,48+,False,Mailed check,1,0,6.0,20.6,0,2022-12-23
+6918-UMQCG,month-to-month,384.25,80.2,5,0-6,False,Electronic check,2,2,42.0,80.2,0,2022-12-21
+0013-EXCHZ,month-to-month,267.4,83.9,3,0-6,True,Mailed check,3,0,29.0,83.9,0,2022-12-17
+4929-BSTRX,month-to-month,53.55,53.55,1,0-6,True,Mailed check,1,0,47.5,53.55,0,2022-12-15
+4667-OHGKG,month-to-month,19.3,19.3,1,0-6,True,Mailed check,1,1,38.25,19.3,0,2022-12-01
+2308-STERM,month-to-month,61.05,19.4,2,0-6,False,Mailed check,1,0,39.0,19.4,0,2022-12-25
+6051-PTVNS,one year,998.1,19.15,55,48+,False,Credit card (automatic),1,1,40.67,19.15,0,2022-12-04
+1493-AMTIE,month-to-month,20.2,20.2,1,0-6,True,Bank transfer (automatic),1,1,36.0,20.2,0,2022-12-18
+2458-EOMRE,month-to-month,733.95,64.05,11,6-12,False,Bank transfer (automatic),1,0,49.0,64.05,0,2022-12-08
+6821-BUXUX,month-to-month,1244.5,96.65,13,12-24,True,Electronic check,1,0,40.0,96.65,0,2022-12-11
+0601-WZHJF,month-to-month,667.7,46.35,14,12-24,True,Electronic check,2,1,34.67,46.35,0,2022-12-16
+4942-VZZOM,one year,4392.5,66.15,64,48+,False,Credit card (automatic),2,1,34.75,66.15,0,2022-12-07
+7812-FZHPE,month-to-month,409.9,24.1,17,12-24,True,Mailed check,2,1,27.0,24.1,0,2022-12-25
+6260-XLACS,one year,117.8,19.7,4,0-6,False,Mailed check,1,1,36.0,19.7,0,2022-12-11
+4797-AXPXK,month-to-month,60.0,60.0,1,0-6,True,Electronic check,1,1,43.75,60.0,0,2022-12-19
+2522-WLNSF,one year,2106.3,64.2,34,24-48,False,Bank transfer (automatic),1,0,41.0,64.2,0,2022-12-23
+9386-LDCZR,one year,3882.3,90.65,43,24-48,False,Credit card (automatic),1,1,50.0,90.65,0,2022-12-04
+6297-NOOPG,two year,7752.05,110.5,70,48+,False,Electronic check,2,0,41.67,110.5,0,2022-12-21
+3096-JRDSO,month-to-month,2867.75,104.3,27,24-48,True,Bank transfer (automatic),1,0,48.0,104.3,0,2022-12-06
+4936-YPJNK,month-to-month,199.45,19.9,10,6-12,False,Mailed check,1,0,60.0,19.9,0,2022-12-17
+4199-QHJNM,two year,6989.7,102.9,67,48+,False,Bank transfer (automatic),1,1,42.33,102.9,0,2022-12-17
+0716-BQNDX,two year,5625.55,93.75,57,48+,False,Electronic check,1,2,29.25,93.75,0,2022-12-19
+2237-ZFSMY,one year,3692.85,95.55,39,24-48,True,Electronic check,1,1,12.67,95.55,0,2022-12-10
+1415-YFWLT,month-to-month,89.3,89.3,1,0-6,True,Electronic check,1,1,38.75,89.3,0,2022-12-13
+1169-WCVAK,month-to-month,1672.35,88.8,19,12-24,False,Credit card (automatic),2,3,30.0,88.8,0,2022-12-01
+8066-POXGX,month-to-month,446.1,35.1,13,12-24,True,Electronic check,1,1,47.33,35.1,0,2022-12-16
+8464-EETCQ,two year,1094.35,18.8,57,48+,False,Credit card (automatic),1,0,11.0,18.8,0,2022-12-13
+9867-NNXLC,month-to-month,470.2,20.05,22,12-24,False,Mailed check,2,2,36.2,20.05,0,2022-12-12
+5321-NTRKC,two year,5234.95,79.85,66,48+,False,Bank transfer (automatic),1,0,15.0,79.85,0,2022-12-05
+2969-QWUBZ,month-to-month,96.8,51.4,2,0-6,False,Electronic check,1,3,28.25,51.4,0,2022-12-02
+3398-ZOUAA,month-to-month,1474.75,69.1,21,12-24,True,Electronic check,1,0,6.0,69.1,0,2022-12-14
+9114-VEPUF,one year,6001.45,96.1,62,48+,False,Electronic check,1,3,27.0,96.1,0,2022-12-17
+4550-EVXNY,month-to-month,69.65,69.65,1,0-6,True,Electronic check,2,1,28.6,69.65,0,2022-12-21
+9693-XMUOB,month-to-month,2997.45,50.25,59,48+,False,Electronic check,1,3,18.0,50.25,0,2022-12-06
+0562-HKHML,two year,1626.4,23.9,71,48+,False,Credit card (automatic),1,1,14.33,23.9,0,2022-12-26
+7248-VZQLC,month-to-month,3969.35,85.2,47,24-48,True,Bank transfer (automatic),2,0,46.0,85.2,0,2022-12-26
+1414-YADCW,two year,5706.2,84.6,70,48+,False,Bank transfer (automatic),1,1,30.67,84.6,0,2022-12-20
+7169-YWAMK,two year,4855.35,68.4,72,48+,False,Bank transfer (automatic),1,2,40.5,68.4,0,2022-12-28
+7163-OCEQI,one year,1663.75,78.65,22,12-24,False,Mailed check,1,1,49.0,78.65,0,2022-12-25
+7094-MSZAO,month-to-month,218.5,20.05,10,6-12,False,Credit card (automatic),1,1,22.25,20.05,0,2022-12-05
+0780-XNZFN,two year,1125.6,20.65,57,48+,False,Bank transfer (automatic),1,0,37.33,20.65,0,2022-12-27
+0212-ISBBF,month-to-month,1098.85,50.35,22,12-24,False,Electronic check,1,0,21.0,50.35,0,2022-12-04
+1472-TNCWL,month-to-month,3512.5,94.7,36,24-48,False,Electronic check,3,1,35.8,94.7,0,2022-12-15
+2080-GKCWQ,month-to-month,151.75,74.95,2,0-6,False,Electronic check,1,1,16.67,74.95,0,2022-12-24
+0442-TDYUO,two year,1036.0,20.05,48,48+,False,Mailed check,3,0,20.0,20.05,0,2022-12-26
+9503-XJUME,one year,928.4,19.65,52,48+,False,Credit card (automatic),1,0,10.0,19.65,0,2022-12-19
+4367-NHWMM,month-to-month,24.9,24.9,1,0-6,False,Mailed check,1,0,36.25,24.9,0,2022-12-22
+4451-RWASJ,one year,239.75,19.5,15,12-24,False,Mailed check,1,2,34.0,19.5,0,2022-12-20
+1555-DJEQW,two year,7723.9,114.2,70,48+,True,Bank transfer (automatic),1,1,31.5,114.2,0,2022-12-26
+4750-UKWJK,one year,727.8,19.6,37,24-48,False,Mailed check,1,1,43.0,19.6,0,2022-12-03
+0356-ERHVT,month-to-month,521.9,45.9,11,6-12,False,Bank transfer (automatic),3,1,39.4,45.9,0,2022-12-03
+4884-ZTHVF,month-to-month,713.6,87.1,8,6-12,False,Electronic check,2,0,9.5,87.1,0,2022-12-07
+0623-EJQEG,one year,6069.25,93.55,65,48+,False,Electronic check,1,3,23.0,93.55,0,2022-12-05
+4009-ALQFH,month-to-month,2369.05,99.5,25,24-48,True,Electronic check,2,1,30.0,99.5,0,2022-12-13
+4847-QNOKA,month-to-month,44.9,44.9,1,0-6,True,Bank transfer (automatic),1,0,14.0,44.9,0,2022-12-07
+6981-TDRFT,one year,2317.1,54.3,44,24-48,False,Electronic check,1,0,49.5,54.3,0,2022-12-07
+2867-UIMSS,month-to-month,80.5,80.5,1,0-6,True,Electronic check,1,0,30.0,80.5,0,2022-12-05
+0439-IFYUN,month-to-month,1294.6,74.7,18,12-24,False,Electronic check,1,3,32.2,74.7,0,2022-12-21
+3058-WQDRE,month-to-month,331.85,25.15,13,12-24,False,Bank transfer (automatic),1,0,17.0,25.15,0,2022-12-08
+1042-HFUCW,one year,1266.35,54.75,25,24-48,False,Credit card (automatic),1,0,19.5,54.75,0,2022-12-18
+2330-PQGDQ,one year,4299.75,84.2,51,48+,False,Bank transfer (automatic),1,1,41.25,84.2,0,2022-12-06
+9681-OXGVC,month-to-month,514.0,100.5,5,0-6,True,Electronic check,3,0,47.0,100.5,0,2022-12-11
+2946-KIQSP,month-to-month,1175.85,33.45,35,24-48,False,Mailed check,1,3,33.6,33.45,0,2022-12-12
+2812-ENYMO,one year,1362.85,54.55,26,24-48,False,Credit card (automatic),1,1,36.33,54.55,0,2022-12-24
+3223-WZWJM,month-to-month,2254.2,83.95,26,24-48,True,Electronic check,1,0,34.0,83.95,0,2022-12-19
+5872-OEQNH,one year,2773.9,44.45,60,48+,False,Electronic check,2,0,27.5,44.45,0,2022-12-03
+8845-LWKGE,one year,1985.15,64.5,30,24-48,False,Electronic check,1,0,6.0,64.5,0,2022-12-22
+8651-ENBZX,one year,6441.4,106.0,60,48+,True,Electronic check,2,1,35.0,106.0,0,2022-12-01
+1027-LKKQQ,two year,5886.85,80.45,72,48+,False,Bank transfer (automatic),1,1,27.5,80.45,0,2022-12-26
+8073-IJDCM,month-to-month,20.3,20.3,1,0-6,True,Mailed check,1,0,34.0,20.3,0,2022-12-28
+0940-OUQEC,month-to-month,788.8,80.7,10,6-12,True,Bank transfer (automatic),1,0,16.67,80.7,0,2022-12-20
+8608-OZTLB,one year,2802.3,74.05,38,24-48,False,Electronic check,2,1,19.25,74.05,0,2022-12-18
+6994-FGRHH,one year,7475.1,106.15,70,48+,False,Electronic check,1,1,34.5,106.15,0,2022-12-28
+2101-RANCD,month-to-month,4144.9,73.1,55,48+,False,Electronic check,2,1,31.75,73.1,0,2022-12-07
+5298-GSTLM,one year,6176.6,101.4,60,48+,False,Bank transfer (automatic),1,1,34.0,101.4,0,2022-12-13
+3865-ZYKAD,month-to-month,5785.65,84.9,69,48+,False,Credit card (automatic),1,2,35.25,84.9,0,2022-12-13
+0480-KYJVA,two year,1784.5,24.25,72,48+,False,Credit card (automatic),1,0,36.0,24.25,0,2022-12-26
+3551-HUAZH,month-to-month,74.4,74.4,1,0-6,True,Electronic check,2,2,28.25,74.4,0,2022-12-16
+1150-FTQGN,one year,5811.8,94.15,60,48+,False,Bank transfer (automatic),1,2,28.8,94.15,0,2022-12-03
+0939-EREMR,month-to-month,718.1,53.45,13,12-24,False,Mailed check,1,3,23.4,53.45,0,2022-12-11
+2100-BDNSN,month-to-month,350.3,67.95,5,0-6,True,Bank transfer (automatic),1,2,25.6,67.95,0,2022-12-20
+5998-DZLYR,two year,5703.0,94.35,61,48+,False,Bank transfer (automatic),1,3,30.2,94.35,0,2022-12-02
+6876-ADESB,month-to-month,48.95,48.95,1,0-6,True,Electronic check,1,0,38.0,48.95,0,2022-12-15
+2834-JKOOW,one year,693.45,45.9,15,12-24,False,Mailed check,1,0,42.0,45.9,0,2022-12-25
+7551-DACSP,month-to-month,324.25,55.3,6,6-12,True,Mailed check,1,1,49.5,55.3,0,2022-12-02
+4957-SREEC,two year,1458.1,20.35,70,48+,False,Credit card (automatic),1,1,19.5,20.35,0,2022-12-05
+5909-ECHUI,month-to-month,56.25,56.25,1,0-6,True,Electronic check,2,0,48.8,56.25,0,2022-12-08
+3315-IKYZQ,one year,1386.8,50.8,28,24-48,False,Mailed check,2,3,27.0,50.8,0,2022-12-02
+0674-EYYZV,month-to-month,54.65,54.65,1,0-6,False,Electronic check,1,0,35.0,54.65,0,2022-12-12
+3588-WSTTJ,month-to-month,3554.6,99.05,35,24-48,False,Electronic check,1,1,48.6,99.05,0,2022-12-24
+6258-NGCNG,month-to-month,173.0,23.5,7,6-12,False,Mailed check,1,2,23.4,23.5,0,2022-12-07
+4566-NECEV,month-to-month,500.1,96.55,5,0-6,False,Electronic check,2,1,32.8,96.55,0,2022-12-05
+2380-DAMQP,two year,8349.7,115.15,72,48+,False,Electronic check,1,2,36.6,115.15,0,2022-12-04
+6994-KERXL,month-to-month,238.5,55.9,4,0-6,False,Electronic check,3,1,36.2,55.9,0,2022-12-25
+3174-RKMOW,month-to-month,3782.4,109.95,35,24-48,False,Electronic check,1,0,32.25,109.95,0,2022-12-23
+8071-SBTRN,two year,7737.55,111.15,70,48+,False,Mailed check,1,1,28.0,111.15,0,2022-12-06
+6668-CNMFP,one year,1686.85,89.35,19,12-24,False,Bank transfer (automatic),2,1,31.8,89.35,0,2022-12-22
+2005-DWQZJ,two year,201.7,19.05,8,6-12,False,Mailed check,1,2,37.25,19.05,0,2022-12-22
+7815-PDTHL,two year,684.4,20.2,35,24-48,False,Mailed check,1,2,31.2,20.2,0,2022-12-02
+3635-JBPSG,two year,603.0,38.8,15,12-24,False,Mailed check,2,1,18.5,38.8,0,2022-12-12
+8930-XOTDP,month-to-month,1082.8,55.95,18,12-24,False,Mailed check,1,1,26.67,55.95,0,2022-12-27
+2990-HWIML,month-to-month,573.3,89.5,6,6-12,True,Electronic check,2,0,26.0,89.5,0,2022-12-04
+5136-GFPMB,month-to-month,4869.5,89.4,54,48+,False,Credit card (automatic),1,1,45.0,89.4,0,2022-12-08
+2405-LBMUW,one year,3088.75,50.7,61,48+,False,Bank transfer (automatic),2,1,32.75,50.7,0,2022-12-25
+0032-PGELS,month-to-month,30.5,30.5,1,0-6,True,Bank transfer (automatic),1,1,28.0,30.5,0,2022-12-20
+2075-RMJIK,month-to-month,232.55,49.4,5,0-6,False,Mailed check,2,0,45.0,49.4,0,2022-12-15
+1264-FUHCX,one year,2780.6,56.3,49,48+,False,Credit card (automatic),1,0,12.0,56.3,0,2022-12-26
+8083-YTZES,month-to-month,265.35,74.35,4,0-6,True,Electronic check,1,2,46.33,74.35,0,2022-12-28
+5351-QESIO,month-to-month,24.2,24.2,1,0-6,False,Mailed check,1,2,22.5,24.2,0,2022-12-09
+6967-PEJLL,one year,1525.35,40.2,37,24-48,False,Electronic check,1,0,44.0,40.2,0,2022-12-05
+1684-FLBGS,month-to-month,1652.1,69.5,23,12-24,False,Credit card (automatic),2,1,18.25,69.5,0,2022-12-12

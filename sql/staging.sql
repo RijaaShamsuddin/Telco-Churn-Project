@@ -1,14 +1,14 @@
+------------------------------
+-- sql file if the etl_pipleine was not made in python
+------------------------------
 -- staging schema for loading csv
 -- analytics schema for processed tables
 CREATE SCHEMA IF NOT EXISTS staging;
 CREATE SCHEMA IF NOT EXISTS analytics;
 
 -- staging.telco_raw
---DROP TABLE IF EXISTS staging.telco_raw;
-CREATE TABLE staging.telco_raw (
-  customerid TEXT,
-  gender TEXT,
-  seniorcitizen TEXT,
+DROP TABLE IF EXISTS staging.telco_raw;
+   seniorcitizen TEXT,
   partner TEXT,
   dependents TEXT,
   tenure TEXT,
@@ -30,8 +30,8 @@ CREATE TABLE staging.telco_raw (
 );
 
 -- staging.support_calls_raw
---DROP TABLE IF EXISTS staging.support_calls_raw;
-CREATE TABLE staging.support_calls_raw (
+DROP TABLE IF EXISTS staging.support_calls_raw;
+CREATE TABLE IF NOT EXISTS staging.support_calls_raw (
   customerid TEXT,
   call_date TEXT,
   issue_type TEXT,
@@ -40,8 +40,8 @@ CREATE TABLE staging.support_calls_raw (
 );
 
 -- staging.payments_raw
---DROP TABLE IF EXISTS staging.payments_raw;
-CREATE TABLE staging.payments_raw (
+DROP TABLE IF EXISTS staging.payments_raw;
+CREATE TABLE IF NOT EXISTS staging.payments_raw (
   customerid TEXT,
   payment_date TEXT,
   amount TEXT,

@@ -11,7 +11,7 @@ CREATE DATABASE telco_project
     IS_TEMPLATE = False;
 	
 -- Customers table
-CREATE TABLE customers (
+CREATE TABLE base.customers (
     customerID VARCHAR(20) PRIMARY KEY,
     gender VARCHAR(10),
     seniorCitizen INT,
@@ -36,7 +36,7 @@ CREATE TABLE customers (
 );
 
 -- Support Calls table
-CREATE TABLE support_calls (
+CREATE TABLE base.support_calls (
     call_id VARCHAR(20) PRIMARY KEY,
     customerID VARCHAR(20),
     call_date DATE,
@@ -47,7 +47,7 @@ CREATE TABLE support_calls (
 );
 
 -- Payments table
-CREATE TABLE payments (
+CREATE TABLE base.payments (
     payment_id SERIAL PRIMARY KEY,
     customerID VARCHAR(20),
     payment_date DATE,

@@ -1,0 +1,4 @@
+segment,total_customers,churned_count,churn_pct,total_monthly_revenue,revenue_at_risk_estimated,months_horizon
+month-to-month,3875,1655.0,42.71,257294.15,659341.99,6
+one year,1472,166.0,11.28,95796.9,64835.34,6
+two year,1685,48.0,2.85,102569.95,17539.46,6

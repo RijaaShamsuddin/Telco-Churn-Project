@@ -1,5 +1,4 @@
 -- Join all features into one consolidated table:
-
 DROP TABLE IF EXISTS analytics.customer_features;
 CREATE TABLE IF NOT EXISTS analytics.customer_features AS
 SELECT
@@ -10,6 +9,7 @@ SELECT
     c.tenure,
     c.tenure_bucket,
     c.churn_flag,
+	c.payment_method,
     s.calls_last_90d,
     s.unresolved_calls_90d,
     s.avg_resolution_time,

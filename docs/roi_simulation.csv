@@ -1,0 +1,4 @@
+"segment","total_customers","total_monthly_revenue","cost_per_offer","total_cost","uplift","revenue_saved","net_benefit","roi"
+"high_risk_customers","3875","257294.15","20","77500","0.25","64323.5375","-13176.4625","-0.1700"
+"high_risk_customers","1472","95796.90","20","29440","0.25","23949.2250","-5490.7750","-0.1865"
+"high_risk_customers","1685","102569.95","20","33700","0.25","25642.4875","-8057.5125","-0.2391"

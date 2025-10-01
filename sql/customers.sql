@@ -10,9 +10,10 @@ CREATE TABLE IF NOT EXISTS analytics.customers AS
 SELECT
     customerid,
     LOWER(contract) AS contract,
-    CAST(REPLACE(NULLIF(totalcharges, ''), ' ', '0') AS NUMERIC) AS total_charges,
+	COALESCE(NULLIF(totalcharges,'0.0'), '0')::NUMERIC AS total_charges,
     monthlycharges::NUMERIC AS monthly_charges,
     tenure::INT,
+	paymentmethod::VARCHAR(50) AS payment_method,
     CASE WHEN churn='Yes' THEN TRUE ELSE FALSE END AS churn_flag,
     CASE 
         WHEN tenure::INT < 6 THEN '0-6'
@@ -26,3 +27,4 @@ FROM staging.telco_raw;
 -- Add index for faster joins/filters
 CREATE INDEX ON analytics.customers(customerid);
 CREATE INDEX ON analytics.customers(churn_flag);
+
