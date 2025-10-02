@@ -98,4 +98,3 @@ Pages included:
 - Same business logic demonstrated in **SQL, Python, and Power BI**.  
 
 ---
-ROI Simulation (interactive “what-if” analysis with DAX parameters)
