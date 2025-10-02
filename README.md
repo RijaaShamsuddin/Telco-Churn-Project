@@ -6,48 +6,96 @@ I designed a workflow (ETL → SQL → Predictive model → BI Dashboard) that i
 
 ---
 
-## 🔎 Problem
-Telco companies lose significant recurring revenue due to **high churn rates** among month-to-month customers.  
-The goal: **diagnose churn drivers** and propose **data-backed interventions** with measurable business impact.  
+# Telecom Customer Churn Analysis
 
-Details in [problem.md](./problem.md).
+## 📌 Problem Statement
+Customer churn is a major challenge for subscription-based businesses like telecom operators. High churn leads to significant revenue loss, and businesses often invest in retention campaigns to reduce it.  
+
+This project answers:
+- What are the main drivers of churn?  
+- Which customer segments are at the highest risk of leaving?  
+- Can offering targeted retention credits (e.g., €20 offers) reduce churn and improve ROI?  
 
 ---
 
-## 📊 Approach
-1. **Day 1 – Baseline & Data Quality**
-   - Cleaned telco, support calls, and payments datasets.
-   - Calculated baseline churn rate and revenue metrics.
-   - Logged data quality issues.  
-   Deliverables: [baseline metrics](./docs/baseline/)
+## 🛠️ Solution Approach
 
-2. **Day 2 – ETL & Feature Engineering**
-   - Built `customers_features` table in Postgres (contract type, high monthly flag, support call stats).
-   - <img width="683" height="334" alt="image" src="https://github.com/user-attachments/assets/c9b58936-38a7-4dc0-8494-443e54dbae6e" />
+### Data Extraction & Preparation
+- ETL pipeline (`etl_pipeline.py`) created to clean and transform customer, contract, and payment data.
+- Engineered features (e.g., tenure buckets, churn flags, payment delays).
+- Analytics views (`analytics.*`) created for reporting.
 
+### Business Metrics & Churn Analysis
+- **Churn Rate**: overall % of customers leaving.
+- **Churn Breakdown**: by contract type, tenure, and payment method.
+- **Cohort Retention**: retention trends across signup cohorts.
+- **Revenue at Risk**: monthly recurring revenue at risk from high-risk segments.
 
-3. **Day 3 – Segmentation & SQL Analysis**
-   - Identified top churn drivers and at-risk segments.
-   - Quantified revenue at risk.
+All results exported via `export_results.py` into `/docs/*.csv` for reproducibility and BI.
 
-4. **Day 4 – Predictive Modeling & ROI Simulation**
-   - Logistic Regression model for churn prediction.
-   - Simulated targeted retention offer and computed ROI.
+### ROI Simulation
+Hypothesis: *“If we target high-risk customers with a €20 retention credit, will it pay off by reducing churn?”*  
 
-5. **Day 5 – Dashboard & Storytelling**
-   - Power BI dashboard with “Action Tab” (segments → retention action → projected impact).
-   - [REPORT.pdf](./docs/REPORT.pdf) executive summary.
+Assumptions:  
+- `cost_per_offer = 20`  
+- `uplift_in_retention = 0.25` (25% relative churn reduction)  
+
+Formula:  
+`ROI = (Revenue Saved – Cost of Offers) ÷ Cost of Offers`
+
+**Result:** ROI values were negative (–0.17, –0.18, –0.24).  
+👉 Blanket €20 offers to high-risk customers do not increase revenue.
+
+### Multi-Platform Implementation
+- **SQL**: All metrics + ROI implemented as queries and views.  
+- **Python**: Automated CSV exports for reproducibility.  
+- **Power BI (DAX)**: Interactive dashboard with ROI simulation slider and churn drill-downs.  
+
+---
+
+## 📊 Power BI Dashboard
+Pages included:
+1. **Churn Overview** – KPIs and trend lines.  
+2. **Churn Drivers** – bar charts by contract, tenure, payment.  
+3. **Revenue at Risk** – segment breakdown.  
+4. **ROI Simulation** – “what-if” parameters for costs and uplift.  
 
 ---
 
 ## 📂 Repository Structure
-telco-churn-optimization/
-├── README.md
-├── problem.md
-├── data_quality_log.md
 ├── sql/
+│ ├── customers.sql
+│ ├── support_features.sql
+│ ├── churn_drivers.sql
+│ ├── revenue_at_risk.sql
+│ └── roi_simulation.sql
+│
 ├── python/
-├── data/
+│ ├── etl_pipeline.py
+│ ├── export_results.py
+│ └── utils.py
+│
 ├── docs/
-├── dashboard/
-└── models/
+│ ├── baseline_kpis.csv
+│ ├── churn_by_contract.csv
+│ ├── cohort_activity.csv
+│ ├── top_revenue_risk_segments.csv
+│ ├── query_performance.md
+│ ├── day3_results.md
+│ └── README.md
+│
+├── powerbi/
+│ └── Churn_Dashboard.pbix
+│
+└── README.md
+
+
+---
+
+## 🚀 Key Learnings
+- End-to-end workflow: **ETL → Analytics → BI → Recommendation**.  
+- Negative ROI insights are valuable for preventing wasted spend.  
+- Same business logic demonstrated in **SQL, Python, and Power BI**.  
+
+---
+ROI Simulation (interactive “what-if” analysis with DAX parameters)
