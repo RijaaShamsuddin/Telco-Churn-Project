@@ -1,0 +1,5 @@
+﻿issue_type,calls,avg_resolution_minutes,resolved_count,pct_resolved,unresolved_count
+Technical,773,33.39068564,385,49.81,388
+Billing,706,33.17563739,379,53.68,327
+Other,748,32.31016043,386,51.6,362
+Contract,760,32.16973684,373,49.08,387
